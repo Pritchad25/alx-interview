@@ -1,0 +1,1 @@
+This repository contains the solutions to the programming tasks done at ALX Software Engineering School. In particular, this repo contains solutions to typical interview questions that are asked during software engineering job interviews.
