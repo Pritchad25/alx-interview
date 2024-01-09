@@ -1,0 +1,1 @@
+This directory contains the solutions to the programming tasks of the 0x01-lockboxes project, which was done the ALX Software Engineering School. The project was done as a way of preparing programming interviews.
