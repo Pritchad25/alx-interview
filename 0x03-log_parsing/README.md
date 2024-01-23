@@ -1,0 +1,1 @@
+This directory contains the solutions to programming tasks of the Log Parsing project, which was done at the ALX Software Engineering School. This project is part of the ALX Interview Preparation Curriculum; the solution was written in Python as required by the project guidelines.
