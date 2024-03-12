@@ -53,8 +53,8 @@ def isWinner(x, nums):
 
 def rm_multiples(ls, x):
     """
-	This function removes multiples of a prime number from
-	an array of possible prime numbers.
+    This function removes multiples of a prime number from
+    an array of possible prime numbers.
 
     Args:
         ls (list of int): An array of possible prime numbers.
