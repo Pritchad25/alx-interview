@@ -36,7 +36,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ALX 2024 -[alxafrica](https://www.alxafrica.com)
 
 ## Repository Structure <a name="repository-structure"></a>
-- The following is a detailed description of the contents of this repository:
+The following is a detailed description of the contents of this repository:
+
 | Project | Description |
 | ------- | ----------- |
 | [0x00-pascal_triangle](0x00-pascal_triangle/) | Introduction to Algorithmic Patterns |
@@ -48,3 +49,7 @@ ALX 2024 -[alxafrica](https://www.alxafrica.com)
 | [0x06-starswars_api](0x06-starswars_api/) | Interaction with the Starwars API |
 | [0x07-rotate_2d_matrix](0x07-rotate_2d_matrix/) | Further mastery in efficient algorithm solutions |
 | [0x08-making_change](0x08-making_change/) | More algorithmic problems |
+| [0x09-island_perimeter](0x09-island_perimeter/) | Further Diving into Algorithms |
+
+## Author <a name="author"></a>
+Pritchad Ncube - [pritchad25](https://www.github.com/Pritchad25)
